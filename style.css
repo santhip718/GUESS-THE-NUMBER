@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(183, 132, 218);
+    text-align: center;
+    padding: 4px;
+    text-decoration-color: beige;
+
+   
+ 
+}
+.headings{
+    padding-top: 30%;
+    
+}
+hr{
+    width: 30%;
+}
+#attemptLabel{
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#img1{
+    width:10%;
+}
